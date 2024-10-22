@@ -1,1 +1,0 @@
-An interactive, turn-based Pokémon-style game developed in Python. Players can choose their creatures, battle opponents, and use strategy to defeat foes. Features include unique creature abilities, leveling up, and various battle scenarios. Ideal for fans of classic RPG mechanics and strategic gameplay.
